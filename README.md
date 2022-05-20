@@ -14,15 +14,14 @@ This repository contains the code for "Towards Open Set Deep Networks”
 
 * Train a classifier with the unknown detection benchmark
 
-<code>
+``` 
   CUDA_VISIBLE_DEVICES=gpu-ids python main.py
-<\code>  
-
+```
 
 
 * Test the trained classifier with the unknown detection benchmark
 
-<code>
+```
   CUDA_VISIBLE_DEVICES=gpu-ids python test.py
-<\code>
+```
 
