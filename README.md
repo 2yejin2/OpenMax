@@ -1,8 +1,7 @@
 ## Towards Open Set Deep Networks
 
-This repository contains the code for "Towards Open Set Deep Networks”
-
-[Paper](https://arxiv.org/abs/1511.06233)
+This repository contains the PyTorch implementation of OpenMax. As for the details of the paper, please refer to [here](https://arxiv.org/abs/1511.06233)
+.
 
 ### Requirements
 * ubuntu 18.0.4, cuda >= 10.2
